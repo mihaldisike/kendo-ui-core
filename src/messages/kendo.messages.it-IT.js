@@ -253,9 +253,9 @@ $.extend(true, kendo.ui.Grid.prototype.options.messages,{
     "cancel": "Annulla modifiche",
     "create": "Aggiungi nuovo elemento",
     "destroy": "Rimuovi",
-    "edit": "Edit",
-    "excel": "Export to Excel",
-    "pdf": "Export to PDF",
+    "edit": "Modifica",
+    "excel": "Esporta Excel",
+    "pdf": "Esporta PDF",
     "save": "Salva le modifiche",
     "select": "Seleziona",
     "update": "Aggiorna"
